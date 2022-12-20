@@ -3,7 +3,7 @@
 
 Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 
-![boring avatars preview](https://github.com/boringdesigners/boring-avatars/blob/master/public/boring-avatars-preview.png?raw=true)
+![boring avatars preview](https://github.com/alanhoskins/boring-avatars/blob/master/public/boring-avatars-preview.png?raw=true)
 
 <a href="https://www.npmjs.com/package/boring-avatars">
 
@@ -55,4 +55,4 @@ https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8
 ![Avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
 
-For more information, [check out the README](https://github.com/hihayk/boring-avatars-service/blob/main/README.md)
+For more information, [check out the README](https://github.com/alanhoskins/boring-avatars-service/blob/main/README.md)

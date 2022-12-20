@@ -1,16 +1,16 @@
 {
-  "name": "boring-avatars",
+  "name": "boring-avatar",
   "description": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.",
-  "homepage": "https://boringavatars.com/",
+  "homepage": "https://boringavatar.com/",
   "version": "1.7.0",
   "main": "build/index.js",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/boringdesigners/boring-avatars"
+    "url": "https://github.com/alanhoskins/boring-avatars"
   },
   "bugs": {
-    "url": "https://github.com/boringdesigners/boring-avatars/issues"
+    "url": "https://github.com/alanhoskins/boring-avatars/issues"
   },
   "keywords": [
     "avatar",
@@ -73,6 +73,7 @@
     "postcss-normalize": "7.0.1",
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
+    "prop-types": "^15.8.1",
     "react": "^16.10.2",
     "react-app-polyfill": "^1.0.4",
     "react-color": "^2.19.3",
@@ -160,8 +161,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  "dependencies": {
-    "prop-types": "^15.8.1"
   }
 }
